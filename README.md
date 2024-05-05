@@ -1,3 +1,3 @@
-# Template materie facultate
+# Proiectare logica
 
 ## Resurse
